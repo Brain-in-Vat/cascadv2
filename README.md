@@ -1,5 +1,12 @@
 ��# cascadv2
 
 # to do
-- [] reconstruct the agent structure
-- [] use database to store agent logs
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
